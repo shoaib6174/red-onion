@@ -1,0 +1,36 @@
+.cart{
+    display: flex;
+    margin: auto;
+   
+}
+.addressForm{
+    width: 50%;
+    position: relative;
+    line-height: 50px;
+    top: 80px;
+    
+}
+.addressForm input{
+    height: 40px;
+    width:250px ;
+    
+    border: none;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+.save-button{
+    height: 30px;
+    width: 250px;
+    background-color:rgb(249, 25, 68);
+    color: #000;
+    border: none;
+    border-radius: 10px;
+}
+input{
+    height: 25px;
+}
+.cartItems{
+    
+}

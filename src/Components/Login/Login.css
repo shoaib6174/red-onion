@@ -1,0 +1,27 @@
+
+.logInForm input{
+    width: 200px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    padding-left: 10px;
+    
+}
+.centered{
+    margin-right: 30%;
+}
+
+.smallText{
+    font-size: 17px;
+    color: mediumvioletred;
+}
+.error-msg{
+    color: red;
+    font-size: 15px;
+    line-height: 16px;
+   
+}
+#logo{
+    width: 100px;
+}

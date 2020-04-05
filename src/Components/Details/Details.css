@@ -1,0 +1,20 @@
+.details{
+    display: flex;
+}
+.info{
+    width: 50%;
+    margin-top: 10%;
+}
+.details-img{
+    width: 50%;
+}
+.details-img img{
+    width: 500px;
+}
+.info button{
+    width: 50px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    
+}

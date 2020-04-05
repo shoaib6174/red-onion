@@ -1,0 +1,38 @@
+.review{
+    display: flex;
+    line-height: 10px;
+}
+#map{
+    padding-left: 10%;
+    width: 100%;
+    
+    margin-right: 15%;
+    margin-bottom: 30%;
+    margin-top: 10%;
+}
+.map{
+    width: 50%;
+}
+.address {
+        margin-top: 100px;
+        margin-left: 15%;
+        width: 300px;
+        background-color: whitesmoke;
+        border: none;
+        height: 60%;
+
+        
+}
+#bike{
+    width: 80px;
+    position: relative;
+    direction: left;
+}
+.review-box{
+    border: none;
+    height: 80px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
